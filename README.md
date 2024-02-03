@@ -18,6 +18,10 @@ Link Shortener is an `open-source` `URL shortening tool` developed by `Md SiFaT 
 
 - Open Source: The tool is open-source, allowing users to view, modify, and contribute to the codebase. Users are encouraged to provide credit when using or modifying the code.
 
+## Scrinshort
+![image](https://github.com/Cyber-Programer/Link-Shortener-Tool/assets/125746506/dd48fcf2-a29d-4ec5-a075-b804b60691c1)
+
+
 ## Installation
 
 - clone thsi repository
