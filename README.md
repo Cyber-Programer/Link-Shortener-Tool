@@ -19,6 +19,35 @@ Link Shortener is an `open-source` `URL shortening tool` developed by `Md SiFaT 
 - Open Source: The tool is open-source, allowing users to view, modify, and contribute to the codebase. Users are encouraged to provide credit when using or modifying the code.
 
 ## Installation
+
+- clone thsi repository
 ```bash
-  git clone 
-``
+  git clone https://github.com/Cyber-Programer/Link-Shortener-Tool.git
+```
+
+- Install dependencies:
+```bash
+  pip install -r requirements.txt
+```
+
+- Run the tool:
+```bash
+  python main.py
+```
+
+### Supported URL Shortening Services
+- is.gd
+- cutt.ly
+- v.gd
+- bitly.ws
+- xy2.eu
+- tunyurl.mobi
+- shorturl.at
+- sniply
+
+## License
+This tool is open-source and available under the MIT License.
+
+
+## Happy Link Shortening! 🚀
+## Stay with cyber-programer
