@@ -1,4 +1,6 @@
-
+<p>
+  <img src="https://c.tenor.com/lGjsXDnO6RUAAAAd/tenor.gif" width=300>
+</p>
 # Link Shortener Tool
 
 ### Description
