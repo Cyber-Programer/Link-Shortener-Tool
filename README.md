@@ -37,7 +37,9 @@ Link Shortener is an `open-source` `URL shortening tool` developed by `Md SiFaT 
 ```bash
   pip install -r requirements.txt
 ```
-
+```bash
+  cd Link-Shortener-Tool
+```
 - Run the tool:
 ```bash
   python main.py
